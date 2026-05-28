@@ -1,0 +1,6 @@
+{
+  "name": "Wedding Guest Manager",
+  "description": "A responsive Khmer guest registration and wedding management application with guest, admin, and host dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
